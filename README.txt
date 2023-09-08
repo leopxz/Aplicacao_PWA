@@ -1,32 +1,17 @@
-Miniport by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+O desafio aqui é construir o seu primeiro PWA!
 
+1º Utilize como referência o projeto das aulas passadas, ou comece um novo baseado em um template (https://html5up.net/);
+2º Verifique se o seu projeto está responsivo e adequado para o padrão mobile;
+3º Utilize recursos do HTML 5 para enriquecer o seu projeto (Links para e-mail, contato, endereço, sms, iframes..);
+4º Teste seu projeto no lighthouse/Audits e otimize as suas imagens (https://www.iloveimg.com/compress-image/compress-png);
+5º Crie o ícone do seu projeto e o gere em diferentes tamanhos (https://appicon.co/);
+6º Suba seu projeto no Netlify e rode uma auditoria do lighthouse/Audits para verificar o que falta para se tornar um PWA;
+7º Utilize o PWA Builder (https://www.pwabuilder.com/) ou o projeto disponibilizado para lhe ajudar como referência;
+8º Crie seu arquivo manifest.json;
+9º Crie seu arquivo service-worker.js;
+10º Link os arquivos criados com o seu index.html;
+11º Atualize seu projeto no Netlify;
+12º Audite seu projeto no lighthouse/Audits para verificar se já está sendo considerado um PWA, se não, corrija!;
+13º Entregue via classroom o link do projeto no Netlify e os nomes dos integrantes do projeto.
 
-A super simple responsive portfolio template. It's only a single page because hey, sometimes
-you don't need a half dozen pages to make your point.
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = Not included)
-
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-aj@lkn.io | @ajlkn
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Extra: Tente utilizar algum recurso do (https://whatwebcando.today/) em seu projeto!
