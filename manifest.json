@@ -199,12 +199,6 @@
     "scr": "assets/img/AppIcons/image/img/icon_512.png",
     "sizes": "512x512",
     "type": "image/png"
-},
-
-{
-    "scr": "assets/img/AppIcons/image/img/icon_1024.png",
-    "sizes": "1024x1024",
-    "type": "image/png"
 }
 ],
 
