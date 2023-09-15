@@ -3,200 +3,200 @@
 "short_name": "Aplicacao PWA",
 "AppIcons":[ 
 {
-    "scr": "assets/img/AppIcons/image/img/icon_16.png",
+    "scr": "assets/AppIcons/image/img/icon_16.png",
     "sizes": "16x16",
     "type": "image/png"
 },
 
 {
-    "scr": "assets/img/AppIcons/image/img/icon_20.png",
+    "scr": "assets/AppIcons/image/img/icon_20.png",
     "sizes": "20x20",
     "type": "image/png"
 },
 
 {
-    "scr": "assets/img/AppIcons/image/img/icon_29.png",
+    "scr": "assets/AppIcons/image/img/icon_29.png",
     "sizes": "29x29",
     "type": "image/png"
 },
 
 {
-    "scr": "assets/img/AppIcons/image/img/icon_32.png",
+    "scr": "assets/AppIcons/image/img/icon_32.png",
     "sizes": "32x32",
     "type": "image/png"
 },
 
 {
-    "scr": "assets/img/AppIcons/image/img/icon_40.png",
+    "scr": "assets/AppIcons/image/img/icon_40.png",
     "sizes": "40x40",
     "type": "image/png"
 },
 
 {
-    "scr": "assets/img/AppIcons/image/img/icon_48.png",
+    "scr": "assets/AppIcons/image/img/icon_48.png",
     "sizes": "48x48",
     "type": "image/png"
 },
 
 {
-    "scr": "assets/img/AppIcons/image/img/icon_50.png",
+    "scr": "assets/AppIcons/image/img/icon_50.png",
     "sizes": "50x50",
     "type": "image/png"
 },
 
 {
-    "scr": "assets/img/AppIcons/image/img/icon_55.png",
+    "scr": "assets/AppIcons/image/img/icon_55.png",
     "sizes": "55x55",
     "type": "image/png"
 },
 
 {
-    "scr": "assets/img/AppIcons/image/img/icon_57.png",
+    "scr": "assets/AppIcons/image/img/icon_57.png",
     "sizes": "57x57",
     "type": "image/png"
 },
 
 {
-    "scr": "assets/img/AppIcons/image/img/icon_58.png",
+    "scr": "assets/AppIcons/image/img/icon_58.png",
     "sizes": "58x58",
     "type": "image/png"
 },
 
 {
-    "scr": "assets/img/AppIcons/image/img/icon_60.png",
+    "scr": "assets/AppIcons/image/img/icon_60.png",
     "sizes": "60x60",
     "type": "image/png"
 },
 
 {
-    "scr": "assets/img/AppIcons/image/img/icon_64.png",
+    "scr": "assets/AppIcons/image/img/icon_64.png",
     "sizes": "64x64",
     "type": "image/png"
 },
 
 {
-    "scr": "assets/img/AppIcons/image/img/icon_66.png",
+    "scr": "assets/AppIcons/image/img/icon_66.png",
     "sizes": "66x66",
     "type": "image/png"
 },
 
 {
-    "scr": "assets/img/AppIcons/image/img/icon_72.png",
+    "scr": "assets/AppIcons/image/img/icon_72.png",
     "sizes": "72x72",
     "type": "image/png"
 },
 
 {
-    "scr": "assets/img/AppIcons/image/img/icon_76.png",
+    "scr": "assets/AppIcons/image/img/icon_76.png",
     "sizes": "76x76",
     "type": "image/png"
 },
 
 {
-    "scr": "assets/img/AppIcons/image/img/icon_80.png",
+    "scr": "assets/AppIcons/image/img/icon_80.png",
     "sizes": "80x80",
     "type": "image/png"
 },
 
 {
-    "scr": "assets/img/AppIcons/image/img/icon_87.png",
+    "scr": "assets/AppIcons/image/img/icon_87.png",
     "sizes": "87x87",
     "type": "image/png"
 },
 
 {
-    "scr": "assets/img/AppIcons/image/img/icon_88.png",
+    "scr": "assets/AppIcons/image/img/icon_88.png",
     "sizes": "88x88",
     "type": "image/png"
 },
 
 {
-    "scr": "assets/img/AppIcons/image/img/icon_92.png",
+    "scr": "assets/AppIcons/image/img/icon_92.png",
     "sizes": "92x92",
     "type": "image/png"
 },
 
 {
-    "scr": "assets/img/AppIcons/image/img/icon_100.png",
+    "scr": "assets/AppIcons/image/img/icon_100.png",
     "sizes": "100x100",
     "type": "image/png"
 },
 
 {
-    "scr": "assets/img/AppIcons/image/img/icon_102.png",
+    "scr": "assets/AppIcons/image/img/icon_102.png",
     "sizes": "102x102",
     "type": "image/png"
 },
 
 {
-    "scr": "assets/img/AppIcons/image/img/icon_114.png",
+    "scr": "assets/AppIcons/image/img/icon_114.png",
     "sizes": "114x114",
     "type": "image/png"
 },
 
 {
-    "scr": "assets/img/AppIcons/image/img/icon_120.png",
+    "scr": "assets/AppIcons/image/img/icon_120.png",
     "sizes": "120x120",
     "type": "image/png"
 },
 
 {
-    "scr": "assets/img/AppIcons/image/img/icon_128.png",
+    "scr": "assets/AppIcons/image/img/icon_128.png",
     "sizes": "128x128",
     "type": "image/png"
 },
 
 {
-    "scr": "assets/img/AppIcons/image/img/icon_144.png",
+    "scr": "assets/AppIcons/image/img/icon_144.png",
     "sizes": "144x144",
     "type": "image/png"
 },
 
 {
-    "scr": "assets/img/AppIcons/image/img/icon_152.png",
+    "scr": "assets/AppIcons/image/img/icon_152.png",
     "sizes": "152x152",
     "type": "image/png"
 },
 
 {
-    "scr": "assets/img/AppIcons/image/img/icon_167.png",
+    "scr": "assets/AppIcons/image/img/icon_167.png",
     "sizes": "167x167",
     "type": "image/png"
 },
 
 {
-    "scr": "assets/img/AppIcons/image/img/icon_172.png",
+    "scr": "assets/AppIcons/image/img/icon_172.png",
     "sizes": "172x172",
     "type": "image/png"
 },
 
 {
-    "scr": "assets/img/AppIcons/image/img/icon_180.png",
+    "scr": "assets/AppIcons/image/img/icon_180.png",
     "sizes": "180x180",
     "type": "image/png"
 },
 
 {
-    "scr": "assets/img/AppIcons/image/img/icon_196.png",
+    "scr": "assets/AppIcons/image/img/icon_196.png",
     "sizes": "196x196",
     "type": "image/png",
     "purpose": "any maskable"
 },
 
 {
-    "scr": "assets/img/AppIcons/image/img/icon_216.png",
+    "scr": "assets/AppIcons/image/img/icon_216.png",
     "sizes": "216x216",
     "type": "image/png"
 },
 
 {
-    "scr": "assets/img/AppIcons/image/img/icon_256.png",
+    "scr": "assets/AppIcons/image/img/icon_256.png",
     "sizes": "256x256",
     "type": "image/png"
 },
 
 {
-    "scr": "assets/img/AppIcons/image/img/icon_512.png",
+    "scr": "assets/AppIcons/image/img/icon_512.png",
     "sizes": "512x512",
     "type": "image/png"
 }
