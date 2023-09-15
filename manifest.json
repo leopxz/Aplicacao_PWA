@@ -179,7 +179,8 @@
 {
     "scr": "assets/img/AppIcons/image/img/icon_196.png",
     "sizes": "196x196",
-    "type": "image/png"
+    "type": "image/png",
+    "purpose": "any maskable"
 },
 
 {
