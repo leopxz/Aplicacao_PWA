@@ -6,10 +6,17 @@
 -->
 <html>
 	<head>
-		<title>Miniport by HTML5 UP</title>
+		<title>SH Preparação Fisica</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="icon" href="images/logoSH.png">
+
+		<meta name="description" content="Aaplicacao PWA">
+		<link rel="manifest" href="manifest.json">
+
+
+
 	</head>
 	<body class="is-preload">
 
@@ -93,7 +100,7 @@
 				<div class="container">
 					<header>
 						<h2>CONHEÇA NOSSAS INSTALAÇÕES</h2>
-						<p>Proin odio consequat  sapien vestibulum consequat lorem dolore feugiat.</p>
+						<p>Prezamos muito nossos treinamentos ao ar livre, onde todos se sintam bem, aqui o aluno vai ter treinos diversificados como o treino de força e resistência na areia da praia, e velocidade no calçadão.</p>
 					</header>
 					<div class="row">
 						<div class="col-4 col-6-medium col-12-small">
@@ -107,35 +114,35 @@
 							<article class="box style2">
 								<a href="#" class="image featured"><img src="images/pic02.png" alt="" /></a>
 								<h3><a href="#">TREINO DE FORÇA</a></h3>
-								<p>Agachamento frontal.</p>
+								<p>Agachamento frontal</p>
 							</article>
 						</div>
 						<div class="col-4 col-6-medium col-12-small">
 							<article class="box style2">
 								<a href="#" class="image featured"><img src="images/pic04.png" alt="" /></a>
 								<h3><a href="#">AULÃO</a></h3>
-								<p>desafio da semana.</p>
+								<p>desafio da semana</p>
 							</article>
 						</div>
 						<div class="col-4 col-6-medium col-12-small">
 							<article class="box style2">
 								<a href="#" class="image featured"><img src="images/pic03.png" alt="" /></a>
 								<h3><a href="#">TREINO DE MOBILIDADE</a></h3>
-								<p>Conhecendo os limites de cada um.</p>
+								<p>Conhecendo os limites de cada um</p>
 							</article>
 						</div>
 						<div class="col-4 col-6-medium col-12-small">
 							<article class="box style2">
 								<a href="#" class="image featured"><img src="images/pic05.png" alt="" /></a>
 								<h3><a href="#">TREINO DE RESISTÊNCIA</a></h3>
-								<p>Testando seus limites.</p>
+								<p>Testando seus limites</p>
 							</article>
 						</div>
 						<div class="col-4 col-6-medium col-12-small">
 							<article class="box style2">
 								<a href="#" class="image featured"><img src="images/pic06.png" alt="" /></a>
 								<h3><a href="#">TREINO DE VELOCIDADE</a></h3>
-								<p>Em busca da melhor peformace.</p>
+								<p>Em busca da melhor peformace</p>
 							</article>
 						</div>
 						
@@ -152,12 +159,13 @@
 					<header>
 						<h1>ENTRE EM CONTATO</h1>
 						<p>Clique na forma que você prefere entrar em contato, e não hesite em ligar ou entrar em contato pelo whatsapp ou email, aguardamos seu contato.</p>
-					</header>
+					</header>	
 					
-					<h3><p><a href="tel:81998346398">ENTRAR EM CONTATO POR LIGAÇÃO</a></p>
+						<h3><p><a href="tel:8187140830">ENTRAR EM CONTATO POR LIGAÇÃO</a></p>
 						
-						<p><a href="https://api.whatsapp.com/send?phone=558198346398"> ENTRAR EM CONTATO PELO WHATSAPP</a></p>
-						<a href="mailto:pxleonarddo@gmail.com">ENTRAR EM CONTATO POR E-MAIL</a>
+						<p><a href="https://api.whatsapp.com/send?phone=558187140830">ENTRAR EM CONTATO PELO WHATSAPP</a></p>
+						
+						<a href="mailto:s4ndrohenrique@gmail.com">ENTRAR EM CONTATO POR E-MAIL</a>
 						</h3>
 				
 						
@@ -234,5 +242,34 @@
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
 
+
+			<script>
+			let newWorker;
+			if ('serviceWorker' in navigator) {
+				navigator.serviceWorker.register('/service-worker.js').then(reg => {
+					reg.addEventListener('updatefound', () => {
+
+					newWorker = reg.installing;
+					newWorker.addEventListener('statechange', () => {
+						
+						switch (newWorker.state) {
+							case 'installed':
+								if (navigator.serviceWorker.controller) {
+								}
+								break;
+								
+						}
+					});
+				});	
+			});
+			let refreshing;
+			navigator.serviceWorker.addEventListener('controllerchange', function () {
+				if(refreshing) return;
+				window.location.reload();
+				refreshing = true;
+			});
+		}
+
+			</script>
 	</body>
 </html>
