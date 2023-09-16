@@ -1,6 +1,6 @@
 {
 "name": "SH Preparação Fisica",
-"short_name": "SH",
+"short_name": "SH Preparacao Fisica",
 "description": "Te levando ao seu corpo em perfeito estado",
 "icons":[ 
 
@@ -216,7 +216,8 @@
 {
     "src": "assets/AppIcons/image/img/icon_196.png",
     "sizes": "196x196",
-    "type": "image/png"
+    "type": "image/png",
+    "purpose": "any maskable"
 },
 
 {
@@ -234,8 +235,7 @@
 {
     "src": "images/icon_logoSH.png",
     "sizes": "760x534",
-    "type": "images/png",
-    "purpose": "any maskable"
+    "type": "images/png"
 },
 
 {
