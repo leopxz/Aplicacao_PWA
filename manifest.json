@@ -3,6 +3,8 @@
 "short_name": "SH Preparacao Fisica",
 "dir": "ltr",
 "scope": "/",
+"orientation": "any",
+  "lang": "pt-br",
 "description": "Te levando ao seu corpo em perfeito estado",
 "icons":[ 
 
@@ -41,176 +43,176 @@
 
 
 {
-    "src": "assets/AppIcons/image/img/icon_16.png",
+    "src": "assets/AppIcons/image/img/16.png",
     "sizes": "16x16",
     "type": "image/png"
 },
 
 {
-    "src": "assets/AppIcons/image/img/icon_20.png",
+    "src": "assets/AppIcons/image/img/20.png",
     "sizes": "20x20",
     "type": "image/png"
 },
 
 {
-    "src": "assets/AppIcons/image/img/icon_29.png",
+    "src": "assets/AppIcons/image/img/29.png",
     "sizes": "29x29",
     "type": "image/png"
 },
 
 {
-    "src": "assets/AppIcons/image/img/icon_32.png",
+    "src": "assets/AppIcons/image/img/32.png",
     "sizes": "32x32",
     "type": "image/png"
 },
 
 {
-    "src": "assets/AppIcons/image/img/icon_40.png",
+    "src": "assets/AppIcons/image/img/40.png",
     "sizes": "40x40",
     "type": "image/png"
 },
 
 {
-    "src": "assets/AppIcons/image/img/icon_48.png",
+    "src": "assets/AppIcons/image/img/48.png",
     "sizes": "48x48",
     "type": "image/png"
 },
 
 {
-    "src": "assets/AppIcons/image/img/icon_50.png",
+    "src": "assets/AppIcons/image/img/50.png",
     "sizes": "50x50",
     "type": "image/png"
 },
 
 {
-    "src": "assets/AppIcons/image/img/icon_55.png",
+    "src": "assets/AppIcons/image/img/55.png",
     "sizes": "55x55",
     "type": "image/png"
 },
 
 {
-    "src": "assets/AppIcons/image/img/icon_57.png",
+    "src": "assets/AppIcons/image/img/57.png",
     "sizes": "57x57",
     "type": "image/png"
 },
 
 {
-    "src": "assets/AppIcons/image/img/icon_58.png",
+    "src": "assets/AppIcons/image/img/58.png",
     "sizes": "58x58",
     "type": "image/png"
 },
 
 {
-    "src": "assets/AppIcons/image/img/icon_60.png",
+    "src": "assets/AppIcons/image/img/60.png",
     "sizes": "60x60",
     "type": "image/png"
 },
 
 {
-    "src": "assets/AppIcons/image/img/icon_64.png",
+    "src": "assets/AppIcons/image/img/64.png",
     "sizes": "64x64",
     "type": "image/png"
 },
 
 {
-    "src": "assets/AppIcons/image/img/icon_66.png",
+    "src": "assets/AppIcons/image/img/66.png",
     "sizes": "66x66",
     "type": "image/png"
 },
 
 {
-    "src": "assets/AppIcons/image/img/icon_72.png",
+    "src": "assets/AppIcons/image/img/72.png",
     "sizes": "72x72",
     "type": "image/png"
 },
 
 {
-    "src": "assets/AppIcons/image/img/icon_76.png",
+    "src": "assets/AppIcons/image/img/76.png",
     "sizes": "76x76",
     "type": "image/png"
 },
 
 {
-    "src": "assets/AppIcons/image/img/icon_80.png",
+    "src": "assets/AppIcons/image/img/80.png",
     "sizes": "80x80",
     "type": "image/png"
 },
 
 {
-    "src": "assets/AppIcons/image/img/icon_87.png",
+    "src": "assets/AppIcons/image/img/87.png",
     "sizes": "87x87",
     "type": "image/png"
 },
 
 {
-    "src": "assets/AppIcons/image/img/icon_88.png",
+    "src": "assets/AppIcons/image/img/88.png",
     "sizes": "88x88",
     "type": "image/png"
 },
 
 {
-    "src": "assets/AppIcons/image/img/icon_92.png",
+    "src": "assets/AppIcons/image/img/92.png",
     "sizes": "92x92",
     "type": "image/png"
 },
 
 {
-    "src": "assets/AppIcons/image/img/icon_100.png",
+    "src": "assets/AppIcons/image/img/100.png",
     "sizes": "100x100",
     "type": "image/png"
 },
 
 {
-    "src": "assets/AppIcons/image/img/icon_102.png",
+    "src": "assets/AppIcons/image/img/102.png",
     "sizes": "102x102",
     "type": "image/png"
 },
 
 {
-    "src": "assets/AppIcons/image/img/icon_114.png",
+    "src": "assets/AppIcons/image/img/114.png",
     "sizes": "114x114",
     "type": "image/png"
 },
 
 {
-    "src": "assets/AppIcons/image/img/icon_120.png",
+    "src": "assets/AppIcons/image/img/120.png",
     "sizes": "120x120",
     "type": "image/png"
 },
 
 {
-    "src": "assets/AppIcons/image/img/icon_128.png",
+    "src": "assets/AppIcons/image/img/128.png",
     "sizes": "128x128",
     "type": "image/png"
 },
 
 {
-    "src": "assets/AppIcons/image/img/icon_144.png",
+    "src": "assets/AppIcons/image/img/144.png",
     "sizes": "144x144",
     "type": "image/png"
     
 },
 
 {
-    "src": "assets/AppIcons/image/img/icon_152.png",
+    "src": "assets/AppIcons/image/img/152.png",
     "sizes": "152x152",
     "type": "image/png"
 },
 
 {
-    "src": "assets/AppIcons/image/img/icon_167.png",
+    "src": "assets/AppIcons/image/img/167.png",
     "sizes": "167x167",
     "type": "image/png"
 },
 
 {
-    "src": "assets/AppIcons/image/img/icon_172.png",
+    "src": "assets/AppIcons/image/img/172.png",
     "sizes": "172x172",
     "type": "image/png"
 },
 
 {
-    "src": "assets/AppIcons/image/img/icon_180.png",
+    "src": "assets/AppIcons/image/img/180.png",
     "sizes": "180x180",
     "type": "image/png",
     "purpose": "any"
@@ -219,77 +221,77 @@
 },
 
 {
-    "src": "assets/AppIcons/image/img/icon_196.png",
+    "src": "assets/AppIcons/image/img/196.png",
     "sizes": "196x196",
     "type": "image/png",
     "purpose": "maskable"
 },
 
 {
-    "src": "assets/AppIcons/image/img/icon_216.png",
+    "src": "assets/AppIcons/image/img/216.png",
     "sizes": "216x216",
     "type": "image/png"
 },
 
 {
-    "src": "assets/AppIcons/image/img/icon_256.png",
+    "src": "assets/AppIcons/image/img/256.png",
     "sizes": "256x256",
     "type": "image/png"
 },
 
 {
-    "src": "images/icon_logoSH.png",
+    "src": "images/logoSH.png",
     "sizes": "760x534",
     "type": "images/png"
 },
 
 {
-    "src": "images/icon_pic00.png",
+    "src": "images/pic00.png",
     "sizes": "852x552",
     "type": "images/png"
 },
 {
-    "src": "images/icon_pic01.png",
+    "src": "images/pic01.png",
     "sizes": "597x443",
     "type": "images/png"
 },
 {
-    "src": "images/icon_pic02.png",
+    "src": "images/pic02.png",
     "sizes": "546x443",
     "type": "images/png"
 },
 {
-    "src": "images/icon_pic03.png",
+    "src": "images/pic03.png",
     "sizes": "477x443",
     "type": "images/png"
 },
 {
-    "src": "images/icon_pic04.png",
+    "src": "images/pic04.png",
     "sizes": "597x444",
     "type": "images/png"
 },
 {
-    "src": "images/icon_pic05.png",
+    "src": "images/pic05.png",
     "sizes": "477x433",
     "type": "images/png"
 },
 {
-    "src": "images/icon_pic06.png",
+    "src": "images/pic06.png",
     "sizes": "475x433",
     "type": "images/png"
 },
 {
-    "src": "images/icon_pic07.png",
+    "src": "images/pic07.png",
     "sizes": "598x469",
     "type": "images/png"
 },
 {
-    "src": "images/icon_pic08.png",
+    "src": "images/pic08.png",
     "sizes": "597x447",
     "type": "images/png"
 },
 {
-    "src": "images/icon_pic09.png",
+    "src": "images/pic09.png",
     "sizes": "499x600",
     "type": "images/png"
 }
@@ -305,6 +307,7 @@
 "background_color": "#ffffff",
   "theme_color": "#1aa8e9",
   "id": "SH Preparacao Fisica",
+  "screenshots": [],
   "categories": [
     "fitness",
     "sports"
