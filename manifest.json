@@ -1,6 +1,8 @@
 {
 "name": "SH Preparação Fisica",
 "short_name": "SH Preparacao Fisica",
+"dir": "ltr",
+"scope": "/",
 "description": "Te levando ao seu corpo em perfeito estado",
 "icons":[ 
 
