@@ -1,4 +1,4 @@
-var chacheName = 'pwaTeste+-v1.0';
+var cacheName = 'pwaTeste+-v1.0';
 
 self.addEventListener('install', event => {
     self.skipwaiting();
