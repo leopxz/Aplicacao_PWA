@@ -2,6 +2,41 @@
 "name": "Aplicacao PWA",
 "short_name": "Aplicacao PWA",
 "AppIcons":[ 
+
+
+
+
+{
+    "scr": "assets/AppIcons/android/mipmap-hdpi/ic_launcher.png",
+    "sizes": "72x72",
+    "type": "android/png"
+},
+
+{
+    "scr": "assets/AppIcons/android/mipmap-mdpi/ic_launcher.png",
+    "sizes": "48x48",
+    "type": "android/png"
+},
+
+{
+    "scr": "assets/AppIcons/android/mipmap-xhdpi/ic_launcher.png",
+    "sizes": "96x96",
+    "type": "android/png"
+},
+
+{
+    "scr": "assets/AppIcons/android/mipmap-xxhdpi/ic_launcher.png",
+    "sizes": "144x144",
+    "type": "android/png"
+},
+
+{
+    "scr": "assets/AppIcons/android/mipmap-xxxhdpi/ic_launcher.png",
+    "sizes": "192x192",
+    "type": "android/png"
+},
+
+
 {
     "scr": "assets/AppIcons/image/img/icon_16.png",
     "sizes": "16x16",
@@ -196,14 +231,75 @@
 },
 
 {
-    "scr": "assets/AppIcons/image/img/icon_512.png",
-    "sizes": "512x512",
-    "type": "image/png"
+    "scr": "images/icon_logoSH.png",
+    "sizes": "760x534",
+    "type": "images/png"
+},
+
+{
+    "scr": "images/icon_pic00.png",
+    "sizes": "852x552",
+    "type": "images/png"
+},
+{
+    "scr": "images/icon_pic01.png",
+    "sizes": "597x443",
+    "type": "images/png"
+},
+{
+    "scr": "images/icon_pic02.png",
+    "sizes": "546x443",
+    "type": "images/png"
+},
+{
+    "scr": "images/icon_pic03.png",
+    "sizes": "477x443",
+    "type": "images/png"
+},
+{
+    "scr": "images/icon_pic04.png",
+    "sizes": "597x444",
+    "type": "images/png"
+},
+{
+    "scr": "images/icon_pic05.png",
+    "sizes": "477x433",
+    "type": "images/png"
+},
+{
+    "scr": "images/icon_pic06.png",
+    "sizes": "475x433",
+    "type": "images/png"
+},
+{
+    "scr": "images/icon_pic07.png",
+    "sizes": "598x469",
+    "type": "images/png"
+},
+{
+    "scr": "images/icon_pic08.png",
+    "sizes": "597x447",
+    "type": "images/png"
+},
+{
+    "scr": "images/icon_pic09.png",
+    "sizes": "499x600",
+    "type": "images/png"
 }
+
+
+
+
+
 ],
 
 "start_url": "index.html",
 "display": "standalone",
-"background_color": "#31506F",
-"theme_color": "#4D5360"
+"background_color": "#ffffff",
+  "theme_color": "#1aa8e9",
+  "id": "SH Preparacao Fisica",
+  "categories": [
+    "fitness",
+    "sports"
+  ]
 }
