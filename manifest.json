@@ -240,6 +240,13 @@
 },
 
 {
+    "src": "assets/AppIcons/image/img/512.png",
+    "sizes": "512x512",
+    "type": "image/png",
+    "purpose": "maskable any"
+},
+
+{
     "src": "images/logoSH.png",
     "sizes": "760x534",
     "type": "images/png"
@@ -301,7 +308,7 @@
 
 
 ],
-
+"splash_pages": null,
 "start_url": "index.html",
 "display": "standalone",
 "background_color": "#ffffff",
